@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>0 Volume Trim</string>
+		<string>1 Bend Range</string>
+		<string>2 Arp On</string>
+		<string>3 Arp Mode</string>
+		<string>4 Arp Rate</string>
+		<string>5 Modulation Type</string>
+		<string>6 Modulation Rate</string>
+		<string>7 Modulation Mix</string>
+		<string>8 Modulation Depth</string>
+		<string>9 Delay Ping-Pong</string>
+		<string>10 Delay Sync</string>
+		<string>11 Delay Time</string>
+		<string>12 Delay Feedback</string>
+		<string>13 Delay Low Cut</string>
+		<string>14 Delay High Cut</string>
+		<string>15 Delay Mix</string>
+		<string>16 A VTO 1 Shape</string>
+		<string>17 A VTO 1 Range</string>
+		<string>18 A VTO 1 Quad</string>
+		<string>19 A VTO 1 Finetune</string>
+		<string>20 A VTO 1 Env To Shape</string>
+		<string>21 A VTO 1 Delay Time</string>
+		<string>22 A VTO 1 Delay Amount</string>
+		<string>23 A VTO 1 Quad Detune</string>
+		<string>24 A VTO 2 Shape</string>
+		<string>25 A VTO 2 Range</string>
+		<string>26 A VTO 2 Quad</string>
+		<string>27 A VTO 2 Finetune</string>
+		<string>28 A VTO 2 Env To Shape</string>
+		<string>29 A VTO 2 Delay Time</string>
+		<string>30 A VTO 2 Delay Amount</string>
+		<string>31 A VTO 2 Quad Detune</string>
+		<string>32 A Glide Time</string>
+		<string>33 A Glide Mode</string>
+		<string>34 A Ringmodulation</string>
+		<string>35 A VTO 1 Mix</string>
+		<string>36 A VTO 2 Mix</string>
+		<string>37 A Mix Drive</string>
+		<string>38 A HPF Cutoff</string>
+		<string>39 A HPF Resonance</string>
+		<string>40 A HPF Slope</string>
+		<string>41 A HPF Saturation</string>
+		<string>42 A HPF Env Mod</string>
+		<string>43 A HPF Keytracking</string>
+		<string>44 A Filter Routing</string>
+		<string>45 A LPF Cutoff</string>
+		<string>46 A LPF Resonance</string>
+		<string>47 A LPF Slope</string>
+		<string>48 A LPF Saturation</string>
+		<string>49 A LPF Env Mod</string>
+		<string>50 A LPF Keytracking</string>
+		<string>51 A VTO Drift</string>
+		<string>52 A Age Dust</string>
+		<string>53 Part A On</string>
+		<string>54 A VTA Volume</string>
+		<string>55 A VTA Shape</string>
+		<string>56 A VTA Pan</string>
+		<string>57 A Env 1 Attack</string>
+		<string>58 A Env 1 Decay</string>
+		<string>59 A Env 1 Sustain</string>
+		<string>60 A Env 1 Release</string>
+		<string>61 A Env 1 Velocity Mod</string>
+		<string>62 A Env 3 Attack</string>
+		<string>63 A Env 3 Decay</string>
+		<string>64 A Env 3 Sustain</string>
+		<string>65 A Env 3 Release</string>
+		<string>66 A Env 3 Velocity Mod</string>
+		<string>67 A Env Retrigger</string>
+		<string>68 A LFO 1 Rate</string>
+		<string>69 A LFO 1 Shape</string>
+		<string>70 A LFO 1 Fade</string>
+		<string>71 A LFO 1 Sync</string>
+		<string>72 A LFO 2 Rate</string>
+		<string>73 A LFO 2 Shape</string>
+		<string>74 A LFO 2 Fade</string>
+		<string>75 A LFO 2 Sync</string>
+		<string>76 A LFO 1 Destination</string>
+		<string>77 A Mod 1 Source</string>
+		<string>78 A Mod 2 Source</string>
+		<string>79 A Mod 1 Depth</string>
+		<string>80 A Mod 2 Depth</string>
+		<string>81 A Mod 1 Destination</string>
+		<string>82 A Mod 2 Destination</string>
+		<string>83 A Velocity to Amp</string>
+		<string>84 A Velocity to HPF</string>
+		<string>85 A Velocity to LPF</string>
+		<string>86 A Unused 1</string>
+		<string>87 A VTO 2 Sync</string>
+		<string>88 A VTO 1 Delay Repitch</string>
+		<string>89 A VTO 2 Delay Repitch</string>
+		<string>90 A HPF Volume</string>
+		<string>91 A Env Select</string>
+		<string>92 A Env 4 Start Level</string>
+		<string>93 A Env 4 Attack Time</string>
+		<string>94 A Env 4 Slope 1</string>
+		<string>95 A Env 4 Slope 2</string>
+		<string>96 A Env 4 Dest.</string>
+		<string>97 A Env 2 Attack</string>
+		<string>98 A Env 2 Decay</string>
+		<string>99 A Env 2 Sustain</string>
+		<string>100 A Env 2 Release</string>
+		<string>101 A Env 2 Velocity Mod</string>
+		<string>102 A Bandpass</string>
+		<string>103 A Part Level</string>
+		<string>104 A Unused 2</string>
+		<string>105 A Unused 3</string>
+		<string>106 A Unused 4</string>
+		<string>107 A Unused 5</string>
+		<string>108 A Unused 6</string>
+		<string>109 A Unused 7</string>
+		<string>110 B VTO 1 Shape</string>
+		<string>111 B VTO 1 Range</string>
+		<string>112 B VTO 1 Quad</string>
+		<string>113 B VTO 1 Finetune</string>
+		<string>114 B VTO 1 Env To Shape</string>
+		<string>115 B VTO 1 Delay Time</string>
+		<string>116 B VTO 1 Delay Amount</string>
+		<string>117 B VTO 1 Quad Detune</string>
+		<string>118 B VTO 2 Shape</string>
+		<string>119 B VTO 2 Range</string>
+		<string>120 B VTO 2 Quad</string>
+		<string>121 B VTO 2 Finetune</string>
+		<string>122 B VTO 2 Env To Shape</string>
+		<string>123 B VTO 2 Delay Time</string>
+		<string>124 B VTO 2 Delay Amount</string>
+		<string>125 B VTO 2 Quad Detune</string>
+		<string>126 B Glide Time</string>
+		<string>127 B Glide Mode</string>
+		<string>128 B Ringmodulation</string>
+		<string>129 B VTO 1 Mix</string>
+		<string>130 B VTO 2 Mix</string>
+		<string>131 B Mix Drive</string>
+		<string>132 B HPF Cutoff</string>
+		<string>133 B HPF Resonance</string>
+		<string>134 B HPF Slope</string>
+		<string>135 B HPF Saturation</string>
+		<string>136 B HPF Env Mod</string>
+		<string>137 B HPF Keytracking</string>
+		<string>138 B Filter Routing</string>
+		<string>139 B LPF Cutoff</string>
+		<string>140 B LPF Resonance</string>
+		<string>141 B LPF Slope</string>
+		<string>142 B LPF Saturation</string>
+		<string>143 B LPF Env Mod</string>
+		<string>144 B LPF Keytracking</string>
+		<string>145 B VTO Drift</string>
+		<string>146 B Age Dust</string>
+		<string>147 Part B On</string>
+		<string>148 B VTA Volume</string>
+		<string>149 B VTA Shape</string>
+		<string>150 B VTA Pan</string>
+		<string>151 B Env 1 Attack</string>
+		<string>152 B Env 1 Decay</string>
+		<string>153 B Env 1 Sustain</string>
+		<string>154 B Env 1 Release</string>
+		<string>155 B Env 1 Velocity Mod</string>
+		<string>156 B Env 3 Attack</string>
+		<string>157 B Env 3 Decay</string>
+		<string>158 B Env 3 Sustain</string>
+		<string>159 B Env 3 Release</string>
+		<string>160 B Env 3 Velocity Mod</string>
+		<string>161 B Env Retrigger</string>
+		<string>162 B LFO 1 Rate</string>
+		<string>163 B LFO 1 Shape</string>
+		<string>164 B LFO 1 Fade</string>
+		<string>165 B LFO 1 Sync</string>
+		<string>166 B LFO 2 Rate</string>
+		<string>167 B LFO 2 Shape</string>
+		<string>168 B LFO 2 Fade</string>
+		<string>169 B LFO 2 Sync</string>
+		<string>170 B LFO 1 Destination</string>
+		<string>171 B Mod 1 Source</string>
+		<string>172 B Mod 2 Source</string>
+		<string>173 B Mod 1 Depth</string>
+		<string>174 B Mod 2 Depth</string>
+		<string>175 B Mod 1 Destination</string>
+		<string>176 B Mod 2 Destination</string>
+		<string>177 B Velocity to Amp</string>
+		<string>178 B Velocity to HPF</string>
+		<string>179 B Velocity to LPF</string>
+		<string>180 B Unused 1</string>
+		<string>181 B VTO 2 Sync</string>
+		<string>182 B VTO 1 Delay Repitch</string>
+		<string>183 B VTO 2 Delay Repitch</string>
+		<string>184 B HPF Volume</string>
+		<string>185 B Env Select</string>
+		<string>186 B Env 4 Start Level</string>
+		<string>187 B Env 4 Attack Time</string>
+		<string>188 B Env 4 Slope 1</string>
+		<string>189 B Env 4 Slope 2</string>
+		<string>190 B Env 4 Dest.</string>
+		<string>191 B Env 2 Attack</string>
+		<string>192 B Env 2 Decay</string>
+		<string>193 B Env 2 Sustain</string>
+		<string>194 B Env 2 Release</string>
+		<string>195 B Env 2 Velocity Mod</string>
+		<string>196 B Bandpass</string>
+		<string>197 B Part Level</string>
+		<string>198 B Unused 2</string>
+		<string>199 B Unused 3</string>
+		<string>200 B Unused 4</string>
+		<string>201 B Unused 5</string>
+		<string>202 B Unused 6</string>
+		<string>203 B Unused 7</string>
+		<string>204 Doubling</string>
+		<string>205 Polyphony</string>
+		<string>206 Modwheel</string>
+		<string>207 Master Level</string>
+		<string>208 Master Width</string>
+		<string>209 Smart Complexity</string>
+		<string>210 Smart Tone</string>
+		<string>211 Smart Punch</string>
+		<string>212 Smart Length</string>
+		<string>213 Smart Fat</string>
+		<string>214 Smart Contour</string>
+		<string>215 Smart Modulation</string>
+		<string>216 Smart Emphasis</string>
+		<string>217 Eco Mode</string>
+	</array>
+</dict>
+</plist>
