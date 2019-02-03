@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>0 - GO</string>
+		<string>1 Auto57 Time</string>
+		<string>2 2 Mod Pan Note</string>
+		<string>3 2 Mod Pan Rand</string>
+		<string>4 Auto58 Time</string>
+		<string>5 - Wet</string>
+		<string>6 4 Mod Time</string>
+		<string>7 7 Mod Amp</string>
+		<string>8 7 Mod Pan</string>
+		<string>9 Auto10 Curve</string>
+		<string>10 7 Mod Pan Alt</string>
+		<string>11 7 Mod Pan Vel</string>
+		<string>12 5 Grid Numerator</string>
+		<string>13 Auto59 Time</string>
+		<string>14 2 Mod Time Note</string>
+		<string>15 2 Mod Time Rand</string>
+		<string>16 1  Midi Learn</string>
+		<string>17 5 Grid Denomerator</string>
+		<string>18 Auto1 Curve</string>
+		<string>19 4 Grid Type</string>
+		<string>20 1 Mod Amp Note</string>
+		<string>21 1 Mod Amp Rand</string>
+		<string>22 - Delay Time</string>
+		<string>23 Auto31 Curve</string>
+		<string>24 6 Mod Pan Note</string>
+		<string>25 6 Mod Pan Rand</string>
+		<string>26 1 Mod Amp</string>
+		<string>27 1 Mod Pan</string>
+		<string>28 3 Grid DotTup</string>
+		<string>29 3  Power</string>
+		<string>30 Auto23 Curve</string>
+		<string>31 4  Smooth </string>
+		<string>32 Auto60 Curve</string>
+		<string>33 Auto30 Time</string>
+		<string>34 8  Midi Learn</string>
+		<string>35 3  Envelope Mode </string>
+		<string>36 Auto15 Curve</string>
+		<string>37 Auto52 Curve</string>
+		<string>38 Auto31 Time</string>
+		<string>39 2  Loop</string>
+		<string>40 2  Play</string>
+		<string>41 2  Snap</string>
+		<string>42 4 Mod Time Alt</string>
+		<string>43 4 Mod Time Vel</string>
+		<string>44 3 Mod Time</string>
+		<string>45 Auto32 Time</string>
+		<string>46 Auto44 Curve</string>
+		<string>47 5 Mod Amp Note</string>
+		<string>48 5 Mod Amp Rand</string>
+		<string>49 7 Grid Denomerator</string>
+		<string>50 6 Mod Amp Alt</string>
+		<string>51 6 Mod Amp Vel</string>
+		<string>52 Auto33 Time</string>
+		<string>53 Auto6 Curve</string>
+		<string>54 Auto36 Curve</string>
+		<string>55 - Delay Wet</string>
+		<string>56 8  Power</string>
+		<string>57 Auto34 Time</string>
+		<string>58 5 Mod Time Note</string>
+		<string>59 5 Mod Time Rand</string>
+		<string>60 Auto28 Curve</string>
+		<string>61 Auto35 Time</string>
+		<string>62 6 Mod Pan Alt</string>
+		<string>63 6 Mod Pan Vel</string>
+		<string>64 Auto57 Curve</string>
+		<string>65 Auto36 Time</string>
+		<string>66 8 Mod Time Alt</string>
+		<string>67 8 Mod Time Vel</string>
+		<string>68 7  Loop</string>
+		<string>69 7  Play</string>
+		<string>70 7  Snap</string>
+		<string>71 3  Smooth </string>
+		<string>72 Auto37 Time</string>
+		<string>73 Auto49 Curve</string>
+		<string>74 8 Mod Amp</string>
+		<string>75 8 Mod Pan</string>
+		<string>76 Auto38 Time</string>
+		<string>77 2 Mod Time</string>
+		<string>78 Auto39 Time</string>
+		<string>79 2 Grid DotTup</string>
+		<string>80 - Delay Feedback</string>
+		<string>81 7  Midi Learn</string>
+		<string>82 5 Grid Type</string>
+		<string>83 2 Mod Amp</string>
+		<string>84 2 Mod Pan</string>
+		<string>85 8  Envelope Mode </string>
+		<string>86 8 Mod Time Note</string>
+		<string>87 8 Mod Time Rand</string>
+		<string>88 1 Mod Pan Note</string>
+		<string>89 1 Mod Pan Rand</string>
+		<string>90 Auto21 Curve</string>
+		<string>91 Auto10 Time</string>
+		<string>92 Auto1 Time</string>
+		<string>93 5 Mod Amp Alt</string>
+		<string>94 5 Mod Amp Vel</string>
+		<string>95 4 Grid Numerator</string>
+		<string>96 2  Power</string>
+		<string>97 2  Smooth </string>
+		<string>98 Auto13 Curve</string>
+		<string>99 Auto10 Amp</string>
+		<string>100 Auto11 Amp</string>
+		<string>101 Auto12 Amp</string>
+		<string>102 Auto13 Amp</string>
+		<string>103 Auto14 Amp</string>
+		<string>104 Auto15 Amp</string>
+		<string>105 Auto16 Amp</string>
+		<string>106 Auto17 Amp</string>
+		<string>107 Auto18 Amp</string>
+		<string>108 Auto19 Amp</string>
+		<string>109 Auto50 Curve</string>
+		<string>110 Auto11 Time</string>
+		<string>111 Auto2 Time</string>
+		<string>112 Auto20 Amp</string>
+		<string>113 Auto21 Amp</string>
+		<string>114 Auto22 Amp</string>
+		<string>115 Auto23 Amp</string>
+		<string>116 Auto24 Amp</string>
+		<string>117 Auto25 Amp</string>
+		<string>118 Auto26 Amp</string>
+		<string>119 Auto27 Amp</string>
+		<string>120 Auto28 Amp</string>
+		<string>121 Auto29 Amp</string>
+		<string>122 Auto12 Time</string>
+		<string>123 Auto3 Time</string>
+		<string>124 Auto42 Curve</string>
+		<string>125 - Selected Env</string>
+		<string>126 Auto30 Amp</string>
+		<string>127 Auto31 Amp</string>
+		<string>128 Auto32 Amp</string>
+		<string>129 Auto33 Amp</string>
+		<string>130 1 Mod Time</string>
+		<string>131 Auto34 Amp</string>
+		<string>132 Auto35 Amp</string>
+		<string>133 Auto36 Amp</string>
+		<string>134 Auto37 Amp</string>
+		<string>135 Auto38 Amp</string>
+		<string>136 Auto39 Amp</string>
+		<string>137 Auto13 Time</string>
+		<string>138 5 Mod Pan Alt</string>
+		<string>139 5 Mod Pan Vel</string>
+		<string>140 Auto4 Time</string>
+		<string>141 Auto4 Curve</string>
+		<string>142 Auto34 Curve</string>
+		<string>143 Auto40 Amp</string>
+		<string>144 Auto41 Amp</string>
+		<string>145 Auto42 Amp</string>
+		<string>146 5 Mod Pan Note</string>
+		<string>147 5 Mod Pan Rand</string>
+		<string>148 Auto43 Amp</string>
+		<string>149 Auto44 Amp</string>
+		<string>150 Auto45 Amp</string>
+		<string>151 Auto46 Amp</string>
+		<string>152 Auto47 Amp</string>
+		<string>153 Auto48 Amp</string>
+		<string>154 Auto49 Amp</string>
+		<string>155 Auto14 Time</string>
+		<string>156 Auto5 Time</string>
+		<string>157 8 Grid Numerator</string>
+		<string>158 Auto26 Curve</string>
+		<string>159 Auto50 Amp</string>
+		<string>160 Auto51 Amp</string>
+		<string>161 Auto52 Amp</string>
+		<string>162 Auto53 Amp</string>
+		<string>163 Auto54 Amp</string>
+		<string>164 Auto55 Amp</string>
+		<string>165 Auto56 Amp</string>
+		<string>166 -  Output Gain</string>
+		<string>167 Auto57 Amp</string>
+		<string>168 Auto58 Amp</string>
+		<string>169 7  Power</string>
+		<string>170 Auto59 Amp</string>
+		<string>171 Auto63 Curve</string>
+		<string>172 Auto60 Time</string>
+		<string>173 Auto15 Time</string>
+		<string>174 Auto6 Time</string>
+		<string>175 Auto18 Curve</string>
+		<string>176 Auto60 Amp</string>
+		<string>177 Auto61 Amp</string>
+		<string>178 Auto62 Amp</string>
+		<string>179 1 Mod Time Note</string>
+		<string>180 1 Mod Time Rand</string>
+		<string>181 Auto63 Amp</string>
+		<string>182 Auto64 Amp</string>
+		<string>183 Auto55 Curve</string>
+		<string>184 Auto61 Time</string>
+		<string>185 Auto16 Time</string>
+		<string>186 Auto7 Time</string>
+		<string>187 5  Loop</string>
+		<string>188 5  Play</string>
+		<string>189 5  Snap</string>
+		<string>190 3 Mod Time Alt</string>
+		<string>191 3 Mod Time Vel</string>
+		<string>192 1 Grid DotTup</string>
+		<string>193 5  Envelope Mode </string>
+		<string>194 Auto62 Time</string>
+		<string>195 Auto17 Time</string>
+		<string>196 Auto8 Time</string>
+		<string>197 Auto47 Curve</string>
+		<string>198 4 Mod Amp Note</string>
+		<string>199 4 Mod Amp Rand</string>
+		<string>200 1  Smooth </string>
+		<string>201 6  Midi Learn</string>
+		<string>202 Auto63 Time</string>
+		<string>203 Auto18 Time</string>
+		<string>204 Auto9 Time</string>
+		<string>205 Auto9 Curve</string>
+		<string>206 Auto39 Curve</string>
+		<string>207 Auto64 Time</string>
+		<string>208 Auto19 Time</string>
+		<string>209 6 Grid Type</string>
+		<string>210 3 Mod Amp</string>
+		<string>211 3 Mod Pan</string>
+		<string>212 8 Grid DotTup</string>
+		<string>213 4 Mod Amp Alt</string>
+		<string>214 4 Mod Amp Vel</string>
+		<string>215 7 Mod Time Alt</string>
+		<string>216 7 Mod Time Vel</string>
+		<string>217 8 Mod Amp Note</string>
+		<string>218 8 Mod Amp Rand</string>
+		<string>219 4 Mod Pan Alt</string>
+		<string>220 4 Mod Pan Vel</string>
+		<string>221 Auto11 Curve</string>
+		<string>222 4 Mod Time Note</string>
+		<string>223 4 Mod Time Rand</string>
+		<string>224 2 Grid Denomerator</string>
+		<string>225 1  Power</string>
+		<string>226 Auto40 Curve</string>
+		<string>227 2  Envelope Mode </string>
+		<string>228 Auto2 Curve</string>
+		<string>229 Auto32 Curve</string>
+		<string>230 Auto24 Curve</string>
+		<string>231 5  Midi Learn</string>
+		<string>232 Auto61 Curve</string>
+		<string>233 Auto40 Time</string>
+		<string>234 3 Grid Numerator</string>
+		<string>235 Auto16 Curve</string>
+		<string>236 6  Power</string>
+		<string>237 Auto53 Curve</string>
+		<string>238 Auto41 Time</string>
+		<string>239 4 Grid Denomerator</string>
+		<string>240 3  Loop</string>
+		<string>241 3  Play</string>
+		<string>242 3  Snap</string>
+		<string>243 Auto42 Time</string>
+		<string>244 Auto45 Curve</string>
+		<string>245 7 Grid DotTup</string>
+		<string>246 3 Mod Amp Alt</string>
+		<string>247 3 Mod Amp Vel</string>
+		<string>248 Auto43 Time</string>
+		<string>249 Auto7 Curve</string>
+		<string>250 Auto37 Curve</string>
+		<string>251 4 Mod Pan Note</string>
+		<string>252 4 Mod Pan Rand</string>
+		<string>253 -  Input Gain</string>
+		<string>254 7 Mod Time Note</string>
+		<string>255 7 Mod Time Rand</string>
+		<string>256 4 Mod Amp</string>
+		<string>257 4 Mod Pan</string>
+		<string>258 7 Grid Type</string>
+		<string>259 7 Grid Numerator</string>
+		<string>260 Auto44 Time</string>
+		<string>261 Auto29 Curve</string>
+		<string>262 Auto45 Time</string>
+		<string>263 1 Grid Type</string>
+		<string>264 3 Mod Pan Alt</string>
+		<string>265 3 Mod Pan Vel</string>
+		<string>266 Auto58 Curve</string>
+		<string>267 Auto46 Time</string>
+		<string>268 2 Mod Time Alt</string>
+		<string>269 2 Mod Time Vel</string>
+		<string>270 8  Loop</string>
+		<string>271 8  Play</string>
+		<string>272 8  Snap</string>
+		<string>273 6 Grid Denomerator</string>
+		<string>274 3 Mod Amp Note</string>
+		<string>275 3 Mod Amp Rand</string>
+		<string>276 Auto47 Time</string>
+		<string>277 8 Mod Pan Note</string>
+		<string>278 8 Mod Pan Rand</string>
+		<string>279 Auto48 Time</string>
+		<string>280 7  Envelope Mode </string>
+		<string>281 - Clip</string>
+		<string>282 Auto49 Time</string>
+		<string>283 4  Midi Learn</string>
+		<string>284 6 Mod Time Alt</string>
+		<string>285 6 Mod Time Vel</string>
+		<string>286 7 Mod Amp Note</string>
+		<string>287 7 Mod Amp Rand</string>
+		<string>288 Auto30 Curve</string>
+		<string>289 8 Mod Time</string>
+		<string>290 8 Grid Denomerator</string>
+		<string>291 Auto22 Curve</string>
+		<string>292 6 Grid DotTup</string>
+		<string>293 2 Mod Amp Alt</string>
+		<string>294 2 Mod Amp Vel</string>
+		<string>295 Auto20 Time</string>
+		<string>296 Auto14 Curve</string>
+		<string>297 Auto51 Curve</string>
+		<string>298 Auto21 Time</string>
+		<string>299 Auto1 Amp</string>
+		<string>300 Auto2 Amp</string>
+		<string>301 Auto3 Amp</string>
+		<string>302 Auto4 Amp</string>
+		<string>303 Auto5 Amp</string>
+		<string>304 Auto6 Amp</string>
+		<string>305 Auto7 Amp</string>
+		<string>306 Auto8 Amp</string>
+		<string>307 Auto9 Amp</string>
+		<string>308 1  Loop</string>
+		<string>309 1  Play</string>
+		<string>310 1  Snap</string>
+		<string>311 Auto22 Time</string>
+		<string>312 5  Power</string>
+		<string>313 Auto43 Curve</string>
+		<string>314 5 Mod Amp</string>
+		<string>315 5 Mod Pan</string>
+		<string>316 2 Mod Pan Alt</string>
+		<string>317 2 Mod Pan Vel</string>
+		<string>318 Auto23 Time</string>
+		<string>319 Auto5 Curve</string>
+		<string>320 8 Grid Type</string>
+		<string>321 Auto35 Curve</string>
+		<string>322 8  Smooth </string>
+		<string>323 4  Envelope Mode </string>
+		<string>324 Auto24 Time</string>
+		<string>325 Auto27 Curve</string>
+		<string>326 2 Grid Type</string>
+		<string>327 Auto64 Curve</string>
+		<string>328 3 Mod Time Note</string>
+		<string>329 3 Mod Time Rand</string>
+		<string>330 Auto25 Time</string>
+		<string>331 2 Grid Numerator</string>
+		<string>332 7 Mod Time</string>
+		<string>333 Auto19 Curve</string>
+		<string>334 Auto56 Curve</string>
+		<string>335 Auto26 Time</string>
+		<string>336 6  Loop</string>
+		<string>337 6  Play</string>
+		<string>338 6  Snap</string>
+		<string>339 Auto27 Time</string>
+		<string>340 Auto48 Curve</string>
+		<string>341 3  Midi Learn</string>
+		<string>342 3 Mod Pan Note</string>
+		<string>343 3 Mod Pan Rand</string>
+		<string>344 Auto28 Time</string>
+		<string>345 6 Grid Numerator</string>
+		<string>346 Auto29 Time</string>
+		<string>347 5 Grid DotTup</string>
+		<string>348 7  Smooth </string>
+		<string>349 1 Mod Amp Alt</string>
+		<string>350 1 Mod Amp Vel</string>
+		<string>351 1 Mod Time Alt</string>
+		<string>352 1 Mod Time Vel</string>
+		<string>353 2 Mod Amp Note</string>
+		<string>354 2 Mod Amp Rand</string>
+		<string>355 1  Envelope Mode </string>
+		<string>356 7 Mod Pan Note</string>
+		<string>357 7 Mod Pan Rand</string>
+		<string>358 6 Mod Time</string>
+		<string>359 Auto20 Curve</string>
+		<string>360 6 Mod Time Note</string>
+		<string>361 6 Mod Time Rand</string>
+		<string>362 1 Mod Pan Alt</string>
+		<string>363 1 Mod Pan Vel</string>
+		<string>364 8 Mod Amp Alt</string>
+		<string>365 8 Mod Amp Vel</string>
+		<string>366 Auto12 Curve</string>
+		<string>367 Brush Select</string>
+		<string>368 6 Mod Amp</string>
+		<string>369 6 Mod Pan</string>
+		<string>370 Show All</string>
+		<string>371 Auto41 Curve</string>
+		<string>372 5 Mod Time Alt</string>
+		<string>373 5 Mod Time Vel</string>
+		<string>374 6 Mod Amp Note</string>
+		<string>375 6 Mod Amp Rand</string>
+		<string>376 Auto3 Curve</string>
+		<string>377 4  Power</string>
+		<string>378 Auto33 Curve</string>
+		<string>379 8 Mod Pan Alt</string>
+		<string>380 8 Mod Pan Vel</string>
+		<string>381 Brush Mode</string>
+		<string>382 3 Grid Type</string>
+		<string>383 6  Smooth </string>
+		<string>384 Auto25 Curve</string>
+		<string>385 2  Midi Learn</string>
+		<string>386 1 Grid Denomerator</string>
+		<string>387 Auto62 Curve</string>
+		<string>388 Auto50 Time</string>
+		<string>389 Auto17 Curve</string>
+		<string>390 Auto54 Curve</string>
+		<string>391 Auto51 Time</string>
+		<string>392 5 Mod Time</string>
+		<string>393 4  Loop</string>
+		<string>394 4  Play</string>
+		<string>395 4  Snap</string>
+		<string>396 4 Grid DotTup</string>
+		<string>397 Auto52 Time</string>
+		<string>398 Auto46 Curve</string>
+		<string>399 Auto53 Time</string>
+		<string>400 Auto8 Curve</string>
+		<string>401 Auto38 Curve</string>
+		<string>402 Auto54 Time</string>
+		<string>403 1 Grid Numerator</string>
+		<string>404 Auto55 Time</string>
+		<string>405 3 Grid Denomerator</string>
+		<string>406 6  Envelope Mode </string>
+		<string>407 7 Mod Amp Alt</string>
+		<string>408 7 Mod Amp Vel</string>
+		<string>409 5  Smooth </string>
+		<string>410 Auto59 Curve</string>
+		<string>411 Auto56 Time</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>0 Enabled</string>
+		<string>1 Overall Gain</string>
+		<string>2 Detection Threshold</string>
+		<string>3 Pitch Sensitivity</string>
+		<string>4 Low Band On</string>
+		<string>5 Low Band Shelf</string>
+		<string>6 Low Band Freq</string>
+		<string>7 Low Band Q</string>
+		<string>8 Low Band Gain</string>
+		<string>9 Mid Band On</string>
+		<string>10 Mid Band Surf On</string>
+		<string>11 Mid Band Freq</string>
+		<string>12 Mid Band Harm</string>
+		<string>13 Mid Band Q</string>
+		<string>14 Mid Band Gain</string>
+		<string>15 High Band On</string>
+		<string>16 High Band Shelf</string>
+		<string>17 High Band Freq</string>
+		<string>18 High Band Q</string>
+		<string>19 High Band Gain</string>
+		<string>20 Surf Time</string>
+	</array>
+</dict>
+</plist>

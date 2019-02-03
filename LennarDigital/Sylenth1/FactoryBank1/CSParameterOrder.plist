@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>0 AmpEnv A Attack</string>
+		<string>1 AmpEnv A Decay</string>
+		<string>2 AmpEnv A Release</string>
+		<string>3 AmpEnv A Sustain</string>
+		<string>4 AmpEnv B Attack</string>
+		<string>5 AmpEnv B Decay</string>
+		<string>6 AmpEnv B Release</string>
+		<string>7 AmpEnv B Sustain</string>
+		<string>8 Arp Gate</string>
+		<string>9 Arp Mode</string>
+		<string>10 Arp Octave</string>
+		<string>11 Arp Time</string>
+		<string>12 Arp Velo</string>
+		<string>13 Arp Wrap</string>
+		<string>14 Chorus Delay</string>
+		<string>15 Chorus Depth</string>
+		<string>16 Chorus Dry/Wet</string>
+		<string>17 Chorus Feedback</string>
+		<string>18 Chorus Mode</string>
+		<string>19 Chorus Rate</string>
+		<string>20 Chorus Width</string>
+		<string>21 Comp Attack</string>
+		<string>22 Comp Ratio</string>
+		<string>23 Comp Release</string>
+		<string>24 Comp Threshold</string>
+		<string>25 Delay Dry/Wet</string>
+		<string>26 Delay Feedback</string>
+		<string>27 Delay HighCut</string>
+		<string>28 Delay LowCut</string>
+		<string>29 Delay PingPong</string>
+		<string>30 Delay Smear</string>
+		<string>31 Delay Spread</string>
+		<string>32 Delay Time Left</string>
+		<string>33 Delay Time Right</string>
+		<string>34 Delay Width</string>
+		<string>35 Distort Amount</string>
+		<string>36 Distort DryWet</string>
+		<string>37 Distort Type</string>
+		<string>38 EQ Bass</string>
+		<string>39 EQ Bass Freq</string>
+		<string>40 EQ Treble</string>
+		<string>41 EQ Treble Freq</string>
+		<string>42 Filter A Cutoff</string>
+		<string>43 Filter A Drive</string>
+		<string>44 Filter A Input</string>
+		<string>45 Filter A Reso</string>
+		<string>46 Filter A Type</string>
+		<string>47 Filter A dB</string>
+		<string>48 Filter B Cutoff</string>
+		<string>49 Filter B Drive</string>
+		<string>50 Filter B Input</string>
+		<string>51 Filter B Reso</string>
+		<string>52 Filter B Type</string>
+		<string>53 Filter B dB</string>
+		<string>54 FilterCtl Cutoff</string>
+		<string>55 FilterCtl KeyTrk</string>
+		<string>56 FilterCtl Reso</string>
+		<string>57 FilterCtl WarmDrive</string>
+		<string>58 LFO 1 Free</string>
+		<string>59 LFO 1 Gain</string>
+		<string>60 LFO 1 Offset</string>
+		<string>61 LFO 1 Rate</string>
+		<string>62 LFO 1 Wave</string>
+		<string>63 LFO 2 Free</string>
+		<string>64 LFO 2 Gain</string>
+		<string>65 LFO 2 Offset</string>
+		<string>66 LFO 2 Rate</string>
+		<string>67 LFO 2 Wave</string>
+		<string>68 Main Volume</string>
+		<string>69 Mix A</string>
+		<string>70 Mix B</string>
+		<string>71 ModEnv 1 Attack</string>
+		<string>72 ModEnv 1 Decay</string>
+		<string>73 ModEnv 1 Release</string>
+		<string>74 ModEnv 1 Sustain</string>
+		<string>75 ModEnv 2 Attack</string>
+		<string>76 ModEnv 2 Decay</string>
+		<string>77 ModEnv 2 Release</string>
+		<string>78 ModEnv 2 Sustain</string>
+		<string>79 ModWheel</string>
+		<string>80 Mono Legato</string>
+		<string>81 Osc A1 Detune</string>
+		<string>82 Osc A1 Fine</string>
+		<string>83 Osc A1 Invert</string>
+		<string>84 Osc A1 Note</string>
+		<string>85 Osc A1 Octave</string>
+		<string>86 Osc A1 Pan</string>
+		<string>87 Osc A1 Phase</string>
+		<string>88 Osc A1 Retrigger</string>
+		<string>89 Osc A1 Stereo</string>
+		<string>90 Osc A1 Voices</string>
+		<string>91 Osc A1 Volume</string>
+		<string>92 Osc A1 Waveform</string>
+		<string>93 Osc A2 Detune</string>
+		<string>94 Osc A2 Fine</string>
+		<string>95 Osc A2 Invert</string>
+		<string>96 Osc A2 Note</string>
+		<string>97 Osc A2 Octave</string>
+		<string>98 Osc A2 Pan</string>
+		<string>99 Osc A2 Phase</string>
+		<string>100 Osc A2 Retrigger</string>
+		<string>101 Osc A2 Stereo</string>
+		<string>102 Osc A2 Voices</string>
+		<string>103 Osc A2 Volume</string>
+		<string>104 Osc A2 Waveform</string>
+		<string>105 Osc B1 Detune</string>
+		<string>106 Osc B1 Fine</string>
+		<string>107 Osc B1 Invert</string>
+		<string>108 Osc B1 Note</string>
+		<string>109 Osc B1 Octave</string>
+		<string>110 Osc B1 Pan</string>
+		<string>111 Osc B1 Phase</string>
+		<string>112 Osc B1 Retrigger</string>
+		<string>113 Osc B1 Stereo</string>
+		<string>114 Osc B1 Voices</string>
+		<string>115 Osc B1 Volume</string>
+		<string>116 Osc B1 Waveform</string>
+		<string>117 Osc B2 Detune</string>
+		<string>118 Osc B2 Fine</string>
+		<string>119 Osc B2 Invert</string>
+		<string>120 Osc B2 Note</string>
+		<string>121 Osc B2 Octave</string>
+		<string>122 Osc B2 Pan</string>
+		<string>123 Osc B2 Phase</string>
+		<string>124 Osc B2 Retrigger</string>
+		<string>125 Osc B2 Stereo</string>
+		<string>126 Osc B2 Voices</string>
+		<string>127 Osc B2 Volume</string>
+		<string>128 Osc B2 Waveform</string>
+		<string>129 Phaser CenterFreq</string>
+		<string>130 Phaser Dry/Wet</string>
+		<string>131 Phaser Feedback</string>
+		<string>132 Phaser LFO Gain</string>
+		<string>133 Phaser LFO Rate</string>
+		<string>134 Phaser LR-Offset</string>
+		<string>135 Phaser Spread</string>
+		<string>136 Phaser Width</string>
+		<string>137 PitchBend</string>
+		<string>138 PitchBend Range</string>
+		<string>139 Polyphony</string>
+		<string>140 Porta Mode</string>
+		<string>141 Porta Time</string>
+		<string>142 Reverb Damp</string>
+		<string>143 Reverb Dry/Wet</string>
+		<string>144 Reverb Predelay</string>
+		<string>145 Reverb Size</string>
+		<string>146 Reverb Width</string>
+		<string>147 Solo</string>
+		<string>148 Sync</string>
+		<string>149 xArp Hold 1</string>
+		<string>150 xArp Hold 2</string>
+		<string>151 xArp Hold 3</string>
+		<string>152 xArp Hold 4</string>
+		<string>153 xArp Hold 5</string>
+		<string>154 xArp Hold 6</string>
+		<string>155 xArp Hold 7</string>
+		<string>156 xArp Hold 8</string>
+		<string>157 xArp Hold 9</string>
+		<string>158 xArp Hold 10</string>
+		<string>159 xArp Hold 11</string>
+		<string>160 xArp Hold 12</string>
+		<string>161 xArp Hold 13</string>
+		<string>162 xArp Hold 14</string>
+		<string>163 xArp Hold 15</string>
+		<string>164 xArp Hold 16</string>
+		<string>165 xArp Transp 1</string>
+		<string>166 xArp Transp 2</string>
+		<string>167 xArp Transp 3</string>
+		<string>168 xArp Transp 4</string>
+		<string>169 xArp Transp 5</string>
+		<string>170 xArp Transp 6</string>
+		<string>171 xArp Transp 7</string>
+		<string>172 xArp Transp 8</string>
+		<string>173 xArp Transp 9</string>
+		<string>174 xArp Transp 10</string>
+		<string>175 xArp Transp 11</string>
+		<string>176 xArp Transp 12</string>
+		<string>177 xArp Transp 13</string>
+		<string>178 xArp Transp 14</string>
+		<string>179 xArp Transp 15</string>
+		<string>180 xArp Transp 16</string>
+		<string>181 xArp Velo 1</string>
+		<string>182 xArp Velo 2</string>
+		<string>183 xArp Velo 3</string>
+		<string>184 xArp Velo 4</string>
+		<string>185 xArp Velo 5</string>
+		<string>186 xArp Velo 6</string>
+		<string>187 xArp Velo 7</string>
+		<string>188 xArp Velo 8</string>
+		<string>189 xArp Velo 9</string>
+		<string>190 xArp Velo 10</string>
+		<string>191 xArp Velo 11</string>
+		<string>192 xArp Velo 12</string>
+		<string>193 xArp Velo 13</string>
+		<string>194 xArp Velo 14</string>
+		<string>195 xArp Velo 15</string>
+		<string>196 xArp Velo 16</string>
+		<string>197 xModEnv1 Dest1Am</string>
+		<string>198 xModEnv1 Dest2Am</string>
+		<string>199 xModEnv2 Dest1Am</string>
+		<string>200 xModEnv2 Dest2Am</string>
+		<string>201 xModLFO1 Dest1Am</string>
+		<string>202 xModLFO1 Dest2Am</string>
+		<string>203 xModLFO2 Dest1Am</string>
+		<string>204 xModLFO2 Dest2Am</string>
+		<string>205 xModMisc1A Dest1Am</string>
+		<string>206 xModMisc1A Dest2Am</string>
+		<string>207 xModMisc1A Source</string>
+		<string>208 xModMisc1B Dest1Am</string>
+		<string>209 xModMisc1B Dest2Am</string>
+		<string>210 xModMisc1B Source</string>
+		<string>211 xModMisc2A Dest1Am</string>
+		<string>212 xModMisc2A Dest2Am</string>
+		<string>213 xModMisc2A Source</string>
+		<string>214 xModMisc2B Dest1Am</string>
+		<string>215 xModMisc2B Dest2Am</string>
+		<string>216 xModMisc2B Source</string>
+		<string>217 xSw ArpOnOff</string>
+		<string>218 xSw ChorusOnOff</string>
+		<string>219 xSw CompOnOff</string>
+		<string>220 xSw DelayOnOff</string>
+		<string>221 xSw DistOnOff</string>
+		<string>222 xSw EQOnOff</string>
+		<string>223 xSw PhaserOnOff</string>
+		<string>224 xSw ReverbOnOff</string>
+		<string>225 yModEnv1 Dest1</string>
+		<string>226 yModEnv1 Dest2</string>
+		<string>227 yModEnv2 Dest1</string>
+		<string>228 yModEnv2 Dest2</string>
+		<string>229 yModLFO1 Dest1</string>
+		<string>230 yModLFO1 Dest2</string>
+		<string>231 yModLFO2 Dest1</string>
+		<string>232 yModLFO2 Dest2</string>
+		<string>233 yModMisc1A Dest1</string>
+		<string>234 yModMisc1A Dest2</string>
+		<string>235 yModMisc1B Dest1</string>
+		<string>236 yModMisc1B Dest2</string>
+		<string>237 yModMisc2A Dest1</string>
+		<string>238 yModMisc2A Dest2</string>
+		<string>239 yModMisc2B Dest1</string>
+		<string>240 yModMisc2B Dest2</string>
+		<string>241 yPart Select</string>
+		<string>242 zEQ Mode</string>
+	</array>
+</dict>
+</plist>

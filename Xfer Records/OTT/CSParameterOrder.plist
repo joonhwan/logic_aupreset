@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>0 Depth</string>
+		<string>1 Time</string>
+		<string>2 In Gain</string>
+		<string>3 Out Gain</string>
+		<string>4 Clean XOV</string>
+		<string>5 Thresh L</string>
+		<string>6 Thresh M</string>
+		<string>7 Thresh H</string>
+		<string>8 Gain L</string>
+		<string>9 Gain M</string>
+		<string>10 Gain H</string>
+		<string>11 Byp Upwd L</string>
+		<string>12 Byp Upwd M</string>
+		<string>13 Byp Upwd H</string>
+		<string>14 Byp Dnwd L</string>
+		<string>15 Byp Dnwd M</string>
+		<string>16 Byp Dnwd H</string>
+		<string>17 Upwd Strgth</string>
+		<string>18 Dnwd Strgth</string>
+	</array>
+</dict>
+</plist>
